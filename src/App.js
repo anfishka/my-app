@@ -28,7 +28,7 @@ function App() {
           // className="App-link"
           href="https://github.com/anfishka"
           target="_blank"
-          rel="_blank"
+          rel="noopener noreferrer"
         >
           My github
         </a>
