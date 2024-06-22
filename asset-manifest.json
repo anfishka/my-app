@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anfishka.github.io/my-app/static/css/main.b90fba5a.css",
+    "main.js": "/anfishka.github.io/my-app/static/js/main.613227db.js",
+    "static/js/453.ed3810f9.chunk.js": "/anfishka.github.io/my-app/static/js/453.ed3810f9.chunk.js",
+    "static/media/photo.jpg": "/anfishka.github.io/my-app/static/media/photo.267678c49e61d525d1aa.jpg",
+    "index.html": "/anfishka.github.io/my-app/index.html",
+    "main.b90fba5a.css.map": "/anfishka.github.io/my-app/static/css/main.b90fba5a.css.map",
+    "main.613227db.js.map": "/anfishka.github.io/my-app/static/js/main.613227db.js.map",
+    "453.ed3810f9.chunk.js.map": "/anfishka.github.io/my-app/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b90fba5a.css",
+    "static/js/main.613227db.js"
+  ]
+}
